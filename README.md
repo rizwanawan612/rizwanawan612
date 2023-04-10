@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
 
-- 🔭 I’m currently working in PAF-IAST [PAF-IAST](https://paf-iast.edu.pk/)
+- 🔭 I’m currently student at PAF-IAST [PAF-IAST](https://paf-iast.edu.pk/)
 
 - 🌱 I’m currently learning **Data Science**
 
